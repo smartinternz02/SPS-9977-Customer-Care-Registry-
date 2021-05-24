@@ -7,8 +7,6 @@ HTML,Bootstrap,MySQL,Python-Flask,Cloud Foundry,Tanzu Application Service,REST A
 
 Project Description:
 
-Introduction :
-
 This Application has been developed to help the customer in processing their complaints. 
 The customers can raise the ticket with a detailed description of the issue. 
 An Agent will be assigned to the Customer to solve the problem. 
